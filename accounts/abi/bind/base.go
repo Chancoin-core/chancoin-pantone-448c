@@ -22,12 +22,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
+	"github.com/chancoin-core/chancoin-pantone-448c"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts/abi"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/event"
 )
 
 // SignerFn is a signer function callback when a contract requires a method to

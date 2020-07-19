@@ -19,7 +19,7 @@ package rpc
 import (
 	"net"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 // StartIPCEndpoint starts an IPC endpoint.

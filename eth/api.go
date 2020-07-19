@@ -28,16 +28,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/hexutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/core"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/rawdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/state"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/ethapi"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/rpc"
+	"github.com/chancoin-core/chancoin-pantone-448c/trie"
 )
 
 // PublicEthereumAPI provides an API to access Ethereum full node-related

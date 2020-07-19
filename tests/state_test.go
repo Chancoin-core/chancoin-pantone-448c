@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/core/vm"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/vm"
 )
 
 func TestState(t *testing.T) {

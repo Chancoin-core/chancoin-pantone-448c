@@ -29,9 +29,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/event"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 const (

@@ -23,11 +23,11 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	lpc "github.com/ethereum/go-ethereum/les/lespay/client"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	lpc "github.com/chancoin-core/chancoin-pantone-448c/les/lespay/client"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enode"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 )
 
 // Constants to match up protocol versions and messages

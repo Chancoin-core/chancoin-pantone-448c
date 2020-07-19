@@ -25,7 +25,7 @@ import (
 	"crypto/sha512"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
 	pcsc "github.com/gballet/go-libpcsclite"
 	"github.com/wsddn/go-ecdh"
 	"golang.org/x/crypto/pbkdf2"

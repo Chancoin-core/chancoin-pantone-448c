@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts/keystore"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 // deployFaucet queries the user for various input on deploying a faucet, after

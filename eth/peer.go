@@ -24,11 +24,11 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/forkid"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 )
 
 var (

@@ -21,11 +21,11 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/core"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/rawdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
 )
 
 // NoOdr is the default context passed to an ODR capable function when the ODR

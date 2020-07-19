@@ -21,15 +21,15 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/signer/core"
+	"github.com/chancoin-core/chancoin-pantone-448c"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/hexutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/event"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/rpc"
+	"github.com/chancoin-core/chancoin-pantone-448c/signer/core"
 )
 
 type ExternalBackend struct {

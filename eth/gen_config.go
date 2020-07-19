@@ -5,13 +5,13 @@ package eth
 import (
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/eth/downloader"
-	"github.com/ethereum/go-ethereum/eth/gasprice"
-	"github.com/ethereum/go-ethereum/miner"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/consensus/ethash"
+	"github.com/chancoin-core/chancoin-pantone-448c/core"
+	"github.com/chancoin-core/chancoin-pantone-448c/eth/downloader"
+	"github.com/chancoin-core/chancoin-pantone-448c/eth/gasprice"
+	"github.com/chancoin-core/chancoin-pantone-448c/miner"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
 )
 
 // MarshalTOML marshals as TOML.

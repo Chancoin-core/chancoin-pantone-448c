@@ -25,11 +25,11 @@ import (
 	"time"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/metrics"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 )
 
 var (

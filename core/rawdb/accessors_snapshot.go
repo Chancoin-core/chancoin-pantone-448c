@@ -17,9 +17,9 @@
 package rawdb
 
 import (
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 // ReadSnapshotRoot retrieves the root of the block whose state is contained in

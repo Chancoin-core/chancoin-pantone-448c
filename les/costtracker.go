@@ -23,12 +23,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/les/flowcontrol"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/mclock"
+	"github.com/chancoin-core/chancoin-pantone-448c/eth"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/les/flowcontrol"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/metrics"
 )
 
 const makeCostStats = false // make request cost statistics during operation

@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
 )
 
 type (

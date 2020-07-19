@@ -39,7 +39,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
 )
 
 func TestKDF(t *testing.T) {

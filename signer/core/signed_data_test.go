@@ -25,12 +25,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/signer/core"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts/keystore"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/hexutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/math"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/signer/core"
 )
 
 var typesStandard = core.Types{

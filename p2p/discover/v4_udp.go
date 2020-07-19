@@ -29,12 +29,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover/v4wire"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/discover/v4wire"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enode"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/netutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 )
 
 // Errors

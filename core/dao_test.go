@@ -20,10 +20,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/chancoin-core/chancoin-pantone-448c/consensus/ethash"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/rawdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/vm"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
 )
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing

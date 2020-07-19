@@ -19,7 +19,7 @@ package abi
 import (
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
 )
 
 type packUnpackTest struct {
@@ -831,9 +831,9 @@ var packUnpackTests = []packUnpackTest{
 	},
 	{
 		// static tuple
-		def: `[{"name":"a","type":"int64"}, 
-		{"name":"b","type":"int256"}, 
-		{"name":"c","type":"int256"}, 
+		def: `[{"name":"a","type":"int64"},
+		{"name":"b","type":"int256"},
+		{"name":"c","type":"int256"},
 		{"name":"d","type":"bool"},
 		{"name":"e","type":"bytes32[3][2]"}]`,
 		unpacked: struct {
@@ -855,9 +855,9 @@ var packUnpackTests = []packUnpackTest{
 			"0500000000000000000000000000000000000000000000000000000000000000", // struct[e] array[1][2]
 	},
 	{
-		def: `[{"name":"a","type":"string"}, 
-		{"name":"b","type":"int64"}, 
-		{"name":"c","type":"bytes"}, 
+		def: `[{"name":"a","type":"string"},
+		{"name":"b","type":"int64"},
+		{"name":"c","type":"bytes"},
 		{"name":"d","type":"string[]"},
 		{"name":"e","type":"int256[]"},
 		{"name":"f","type":"address[]"}]`,
@@ -894,8 +894,8 @@ var packUnpackTests = []packUnpackTest{
 			"0000000000000000000000000200000000000000000000000000000000000000", // common.Address{2}
 	},
 	{
-		def: `[{"components": [{"name": "a","type": "uint256"},	
-							{"name": "b","type": "uint256[]"}],	
+		def: `[{"components": [{"name": "a","type": "uint256"},
+							{"name": "b","type": "uint256[]"}],
 							"name": "a","type": "tuple"},
 							{"name": "b","type": "uint256[]"}]`,
 		unpacked: struct {
@@ -923,8 +923,8 @@ var packUnpackTests = []packUnpackTest{
 	},
 
 	{
-		def: `[{"components": [{"name": "a","type": "int256"},	
-							{"name": "b","type": "int256[]"}],	
+		def: `[{"components": [{"name": "a","type": "int256"},
+							{"name": "b","type": "int256[]"}],
 							"name": "a","type": "tuple[]"}]`,
 		unpacked: []struct {
 			A *big.Int
@@ -949,8 +949,8 @@ var packUnpackTests = []packUnpackTest{
 			"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff", // tuple[1].B[1] value
 	},
 	{
-		def: `[{"components": [{"name": "a","type": "int256"},	
-							{"name": "b","type": "int256"}],	
+		def: `[{"components": [{"name": "a","type": "int256"},
+							{"name": "b","type": "int256"}],
 							"name": "a","type": "tuple[2]"}]`,
 		unpacked: [2]struct {
 			A *big.Int

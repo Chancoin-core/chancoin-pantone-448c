@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/metrics/prometheus"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/metrics"
+	"github.com/chancoin-core/chancoin-pantone-448c/metrics/prometheus"
 )
 
 type exp struct {

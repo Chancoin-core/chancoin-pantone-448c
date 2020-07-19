@@ -29,17 +29,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/discv5"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/mclock"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/event"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/discover"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/discv5"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enode"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enr"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/nat"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/netutil"
 )
 
 const (

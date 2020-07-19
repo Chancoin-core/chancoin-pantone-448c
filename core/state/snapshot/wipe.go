@@ -20,10 +20,10 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/rawdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 // wipeSnapshot starts a goroutine to iterate over the entire key-value database

@@ -61,6 +61,8 @@ github.com/dop251/goja v0.0.0-20200219165308-d1232e640a87 h1:OMbqMXf9OAXzH1dDH82
 github.com/dop251/goja v0.0.0-20200219165308-d1232e640a87/go.mod h1:Mw6PkjjMXWbTj+nnj4s3QPXq1jaT0s5pC0iFD4+BOAA=
 github.com/edsrzf/mmap-go v0.0.0-20160512033002-935e0e8a636c h1:JHHhtb9XWJrGNMcrVP6vyzO4dusgi/HnceHTgxSejUM=
 github.com/edsrzf/mmap-go v0.0.0-20160512033002-935e0e8a636c/go.mod h1:YO35OhQPt3KJa3ryjFM5Bs14WD66h8eGKpfaBNrHW5M=
+github.com/ethereum/go-ethereum v1.9.16 h1:WQTmbO9RelgTouA5UlRfd4KnXqSarphmvn7XNXUmvhk=
+github.com/ethereum/go-ethereum v1.9.16/go.mod h1:kihoiSg74VC4dZAXMkmoWp70oQabz48BJg1tuzricFc=
 github.com/fatih/color v1.3.0 h1:YehCCcyeQ6Km0D6+IapqPinWBK6y+0eB5umvZXK9WPs=
 github.com/fatih/color v1.3.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fjl/memsize v0.0.0-20180418122429-ca190fb6ffbc h1:jtW8jbpkO4YirRSyepBOH8E+2HEw6/hKkBvFPwhUN8c=

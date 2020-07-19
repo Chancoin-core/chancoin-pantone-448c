@@ -23,10 +23,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/chancoin-core/chancoin-pantone-448c/cmd/utils"
+	"github.com/chancoin-core/chancoin-pantone-448c/consensus/ethash"
+	"github.com/chancoin-core/chancoin-pantone-448c/eth"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

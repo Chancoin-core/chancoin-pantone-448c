@@ -25,14 +25,14 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/consensus"
-	"github.com/ethereum/go-ethereum/consensus/misc"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/math"
+	"github.com/chancoin-core/chancoin-pantone-448c/consensus"
+	"github.com/chancoin-core/chancoin-pantone-448c/consensus/misc"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/state"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

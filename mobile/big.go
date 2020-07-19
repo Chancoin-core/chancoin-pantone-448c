@@ -22,7 +22,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
 )
 
 // A BigInt represents a signed multi-precision integer.

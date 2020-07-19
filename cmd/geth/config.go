@@ -26,11 +26,11 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/params"
-	whisper "github.com/ethereum/go-ethereum/whisper/whisperv6"
+	"github.com/chancoin-core/chancoin-pantone-448c/cmd/utils"
+	"github.com/chancoin-core/chancoin-pantone-448c/eth"
+	"github.com/chancoin-core/chancoin-pantone-448c/node"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
+	whisper "github.com/chancoin-core/chancoin-pantone-448c/whisper/whisperv6"
 	"github.com/naoina/toml"
 )
 

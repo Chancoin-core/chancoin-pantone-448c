@@ -25,10 +25,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/hexutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/math"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
 )
 
 var errTraceLimitReached = errors.New("the number of logs reached the specified limit")

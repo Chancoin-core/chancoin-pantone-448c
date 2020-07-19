@@ -35,11 +35,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/bitutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/ecies"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/bitutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto/ecies"
+	"github.com/chancoin-core/chancoin-pantone-448c/metrics"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 	"github.com/golang/snappy"
 	"golang.org/x/crypto/sha3"
 )

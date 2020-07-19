@@ -23,11 +23,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/ethdb/leveldb"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb/leveldb"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb/memorydb"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 	"github.com/olekukonko/tablewriter"
 )
 

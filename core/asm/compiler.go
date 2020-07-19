@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/core/vm"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/math"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/vm"
 )
 
 // Compiler contains information about the parsed source

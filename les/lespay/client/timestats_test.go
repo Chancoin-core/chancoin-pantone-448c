@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/les/utils"
+	"github.com/chancoin-core/chancoin-pantone-448c/les/utils"
 )
 
 func TestTransition(t *testing.T) {

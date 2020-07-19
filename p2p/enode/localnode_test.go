@@ -21,8 +21,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p/enr"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enr"
 	"github.com/stretchr/testify/assert"
 )
 

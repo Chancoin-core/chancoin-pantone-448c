@@ -24,9 +24,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/utesting"
-	"github.com/ethereum/go-ethereum/p2p/discover/v4wire"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/utesting"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/discover/v4wire"
 )
 
 const (

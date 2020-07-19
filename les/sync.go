@@ -21,11 +21,11 @@ import (
 	"errors"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/eth/downloader"
-	"github.com/ethereum/go-ethereum/light"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/rawdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/eth/downloader"
+	"github.com/chancoin-core/chancoin-pantone-448c/light"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 var errInvalidCheckpoint = errors.New("invalid advertised checkpoint")

@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
 	"github.com/holiman/uint256"
 )
 

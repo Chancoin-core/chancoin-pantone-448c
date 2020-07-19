@@ -19,15 +19,15 @@ package main
 import (
 	"strconv"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/accounts/external"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/checkpointoracle"
-	"github.com/ethereum/go-ethereum/ethclient"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts/abi/bind"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts/external"
+	"github.com/chancoin-core/chancoin-pantone-448c/cmd/utils"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/contracts/checkpointoracle"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethclient"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
+	"github.com/chancoin-core/chancoin-pantone-448c/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

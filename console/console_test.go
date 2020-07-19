@@ -26,14 +26,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/console/prompt"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/internal/jsre"
-	"github.com/ethereum/go-ethereum/miner"
-	"github.com/ethereum/go-ethereum/node"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/consensus/ethash"
+	"github.com/chancoin-core/chancoin-pantone-448c/console/prompt"
+	"github.com/chancoin-core/chancoin-pantone-448c/core"
+	"github.com/chancoin-core/chancoin-pantone-448c/eth"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/jsre"
+	"github.com/chancoin-core/chancoin-pantone-448c/miner"
+	"github.com/chancoin-core/chancoin-pantone-448c/node"
 )
 
 const (

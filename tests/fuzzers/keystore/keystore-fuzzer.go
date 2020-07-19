@@ -19,7 +19,7 @@ package keystore
 import (
 	"os"
 
-	"github.com/ethereum/go-ethereum/accounts/keystore"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts/keystore"
 )
 
 func Fuzz(input []byte) int {

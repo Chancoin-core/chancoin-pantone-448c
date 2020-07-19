@@ -21,8 +21,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/cmd/utils"
+	"github.com/chancoin-core/chancoin-pantone-448c/accounts/keystore"
+	"github.com/chancoin-core/chancoin-pantone-448c/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

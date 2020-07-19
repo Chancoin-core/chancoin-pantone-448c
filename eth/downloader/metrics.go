@@ -19,7 +19,7 @@
 package downloader
 
 import (
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/chancoin-core/chancoin-pantone-448c/metrics"
 )
 
 var (

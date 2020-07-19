@@ -21,10 +21,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/forkid"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enr"
+	"github.com/chancoin-core/chancoin-pantone-448c/params"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 	"gopkg.in/urfave/cli.v1"
 )
 

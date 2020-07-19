@@ -23,11 +23,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/mclock"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb/memorydb"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enode"
 
-	"github.com/ethereum/go-ethereum/les/utils"
+	"github.com/chancoin-core/chancoin-pantone-448c/les/utils"
 )
 
 const (

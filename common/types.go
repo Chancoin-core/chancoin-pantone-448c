@@ -27,7 +27,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/common/hexutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/hexutil"
 	"golang.org/x/crypto/sha3"
 )
 

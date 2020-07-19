@@ -27,9 +27,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enode"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enr"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -24,10 +24,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/console/prompt"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/hexutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/console/prompt"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/ethapi"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 type CommandlineUI struct {

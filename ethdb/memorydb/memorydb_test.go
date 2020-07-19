@@ -19,8 +19,8 @@ package memorydb
 import (
 	"testing"
 
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/ethdb/dbtest"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb/dbtest"
 )
 
 func TestMemoryDB(t *testing.T) {

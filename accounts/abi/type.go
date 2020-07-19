@@ -24,7 +24,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
 )
 
 // Type enumerator

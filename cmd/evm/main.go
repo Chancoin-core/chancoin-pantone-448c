@@ -22,8 +22,8 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/ethereum/go-ethereum/cmd/evm/internal/t8ntool"
-	"github.com/ethereum/go-ethereum/cmd/utils"
+	"github.com/chancoin-core/chancoin-pantone-448c/cmd/evm/internal/t8ntool"
+	"github.com/chancoin-core/chancoin-pantone-448c/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

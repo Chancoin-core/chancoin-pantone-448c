@@ -35,7 +35,7 @@ package whisperv6
 import (
 	"time"
 
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
 )
 
 // Whisper protocol parameters

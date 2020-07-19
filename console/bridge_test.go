@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/dop251/goja"
-	"github.com/ethereum/go-ethereum/internal/jsre"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/jsre"
 )
 
 // TestUndefinedAsParam ensures that personal functions can receive

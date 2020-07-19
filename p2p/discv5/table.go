@@ -25,7 +25,7 @@ import (
 	"net"
 	"sort"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
 )
 
 const (

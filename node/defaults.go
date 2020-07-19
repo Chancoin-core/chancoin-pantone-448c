@@ -22,9 +22,9 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/nat"
+	"github.com/chancoin-core/chancoin-pantone-448c/rpc"
 )
 
 const (

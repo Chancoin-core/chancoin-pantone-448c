@@ -19,7 +19,7 @@ package bloombits
 import (
 	"errors"
 
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/types"
 )
 
 var (

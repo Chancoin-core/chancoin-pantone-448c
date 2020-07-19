@@ -19,8 +19,8 @@ package les
 import (
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/bitutil"
-	"github.com/ethereum/go-ethereum/light"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/bitutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/light"
 )
 
 const (

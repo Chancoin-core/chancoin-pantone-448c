@@ -21,7 +21,7 @@ package metrics
 import (
 	"syscall"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 )
 
 // getProcessCPUTime retrieves the process' CPU time since program startup.

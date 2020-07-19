@@ -17,8 +17,8 @@
 package les
 
 import (
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p"
+	"github.com/chancoin-core/chancoin-pantone-448c/metrics"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p"
 )
 
 var (

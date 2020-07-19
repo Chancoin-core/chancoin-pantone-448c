@@ -29,11 +29,11 @@ import (
 	"syscall"
 
 	"github.com/dop251/goja"
-	"github.com/ethereum/go-ethereum/console/prompt"
-	"github.com/ethereum/go-ethereum/internal/jsre"
-	"github.com/ethereum/go-ethereum/internal/jsre/deps"
-	"github.com/ethereum/go-ethereum/internal/web3ext"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/chancoin-core/chancoin-pantone-448c/console/prompt"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/jsre"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/jsre/deps"
+	"github.com/chancoin-core/chancoin-pantone-448c/internal/web3ext"
+	"github.com/chancoin-core/chancoin-pantone-448c/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 )

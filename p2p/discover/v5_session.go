@@ -19,8 +19,8 @@ package discover
 import (
 	crand "crypto/rand"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/mclock"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enode"
 	"github.com/hashicorp/golang-lru/simplelru"
 )
 

@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/bitutil"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/bitutil"
+	"github.com/chancoin-core/chancoin-pantone-448c/crypto"
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

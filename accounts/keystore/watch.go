@@ -21,7 +21,7 @@ package keystore
 import (
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/chancoin-core/chancoin-pantone-448c/log"
 	"github.com/rjeczalik/notify"
 )
 

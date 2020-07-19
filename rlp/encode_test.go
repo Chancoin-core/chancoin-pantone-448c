@@ -26,7 +26,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common/math"
+	"github.com/chancoin-core/chancoin-pantone-448c/common/math"
 )
 
 type testEncoder struct {

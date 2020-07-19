@@ -40,7 +40,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

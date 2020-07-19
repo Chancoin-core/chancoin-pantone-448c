@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/tests"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/vm"
+	"github.com/chancoin-core/chancoin-pantone-448c/tests"
 	"gopkg.in/urfave/cli.v1"
 )
 

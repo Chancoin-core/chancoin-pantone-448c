@@ -24,8 +24,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/p2p/enr"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 	"github.com/stretchr/testify/assert"
 )
 

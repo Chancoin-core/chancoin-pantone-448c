@@ -21,7 +21,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/chancoin-core/chancoin-pantone-448c/rlp"
 )
 
 // Entry is implemented by known node record entry types.

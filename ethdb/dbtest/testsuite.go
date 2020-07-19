@@ -22,7 +22,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/chancoin-core/chancoin-pantone-448c/ethdb"
 )
 
 // TestDatabaseSuite runs a suite of tests against a KeyValueStore database

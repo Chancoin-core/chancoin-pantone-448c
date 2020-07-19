@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/core/asm"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/asm"
 )
 
 func Compile(fn string, src []byte, debug bool) (string, error) {

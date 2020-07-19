@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/signer/core"
-	"github.com/ethereum/go-ethereum/signer/fourbyte"
+	"github.com/chancoin-core/chancoin-pantone-448c/signer/core"
+	"github.com/chancoin-core/chancoin-pantone-448c/signer/fourbyte"
 )
 
 func init() {

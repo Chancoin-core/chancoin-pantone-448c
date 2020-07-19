@@ -19,8 +19,8 @@ package core
 import (
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/state"
+	"github.com/chancoin-core/chancoin-pantone-448c/common"
+	"github.com/chancoin-core/chancoin-pantone-448c/core/state"
 )
 
 // txNoncer is a tiny virtual state database to manage the executable nonces of
